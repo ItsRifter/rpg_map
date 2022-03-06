@@ -1,0 +1,13 @@
+{
+  "Title": "RPG Test Map",
+  "Type": "map",
+  "Org": "rifter",
+  "Ident": "rpg_test_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null
+}
